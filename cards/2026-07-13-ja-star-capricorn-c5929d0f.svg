@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350" role="img" aria-label="6. 山羊座 - 78 points">
+  <style><![CDATA[
+    @import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Newsreader:opsz,wght@6..72,500;6..72,600;6..72,700&family=Spectral:wght@500;600;700&display=swap');
+    @import url('https://cdn.jsdelivr.net/gh/orioncactus/pretendard@1.3.9/dist/web/variable/pretendardvariable.css');
+    text { font-family: 'Pretendard Variable', Pretendard, 'Noto Sans JP', -apple-system, BlinkMacSystemFont, Apple SD Gothic Neo, Hiragino Sans, Segoe UI, sans-serif; letter-spacing: 0; }
+    .display { font-family: 'Cormorant Garamond', Spectral, Newsreader, 'Shippori Mincho', Georgia, serif; }
+    .ja-sans { font-family: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Yu Gothic', 'Noto Sans CJK JP', 'Noto Sans JP', sans-serif; font-synthesis: none; }
+    .ja-display { font-family: 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif CJK JP', 'Noto Serif JP', 'Shippori Mincho', serif; font-synthesis: none; }
+    .ja-summary { font-family: 'Hiragino Mincho ProN', 'Yu Mincho', 'Noto Serif CJK JP', 'Noto Serif JP', 'Shippori Mincho', serif; font-synthesis: none; }
+  ]]></style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#F8F4EA"/>
+      <stop offset="56%" stop-color="#F3EEE1"/>
+      <stop offset="100%" stop-color="#EEE8DA"/>
+    </linearGradient>
+    <radialGradient id="blueWash" cx="16%" cy="8%" r="62%">
+      <stop offset="0%" stop-color="#A3BED1" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#A3BED1" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldWash" cx="86%" cy="42%" r="58%">
+      <stop offset="0%" stop-color="#C4A354" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#C4A354" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="panelShadow" x="-8%" y="-10%" width="116%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#20293B" flood-opacity="0.08"/>
+    </filter>
+  </defs>
+  <rect width="1080" height="1350" fill="url(#bg)"/>
+  <rect width="1080" height="1350" fill="url(#blueWash)"/>
+  <rect width="1080" height="1350" fill="url(#goldWash)"/>
+  <rect x="34" y="34" width="1012" height="1282" rx="38" fill="none" stroke="#C4A354" stroke-width="2" opacity="0.34"/>
+  <image id="bg-character-watermark" x="505" y="716" width="720" height="720" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAzNiI+PHBhdGggZmlsbD0iI0ZGQUMzMyIgZD0iTTcuNDQgNy41MDNjLTEtNCAzLjY4Ny02IDgtNCAuOTA3LjQyMS45NDggMS4zMTYgMCAxLTMtMS02IDEtNCA0IDEuMTA5IDEuNjY0LTMuMjMzIDIuMDY4LTQtMXoiLz48cGF0aCBmaWxsPSIjRkZDQzREIiBkPSJNNi4xMzYgNS43ODVjLTEtNCAzLjY4Ny02IDgtNCAuOTA3LjQyMS45NDkgMS4zMTYgMCAxLTMtMS02IDEtNCA0IDEuMTEgMS42NjQtMy4yMzMgMi4wNjctNC0xeiIvPjxwYXRoIGZpbGw9IiNFMUU4RUQiIGQ9Ik01IDE0Ljc4NWMwIDQtMiA0LjgyNy0yIDQgMC0yLTEgMC0xLTF2LTNjMC0xLjY1Ny42NzEtMyAxLjUtM3MxLjUgMS4zNDMgMS41IDN6Ii8+PHBhdGggZmlsbD0iI0NDRDZERCIgZD0iTTM1LjE1OSAxMC40OWMtLjY4LTEuNjQzLTIuMzEzLTIuNzA1LTQuMTU5LTIuNzA1LS41NTMgMC0xIC40NDgtMSAxcy40NDcgMSAxIDFjMS4wMzQgMCAxLjk0MS41NzcgMi4zMTIgMS40NzEuMzQxLjgyNC4xNjggMS43NTgtLjQ1NSAyLjY0Ny0uOTg0LTEuNTA2LTIuNjAyLTIuNjE4LTQuODU2LTIuNjE4LTIuMzkxIDAtNy4yNzkuNzE0LTEwLjgyOCAxLjI4OS0uMDUyLS4wOTQtLjEwNS0uMTg4LS4xNzItLjI4OS0yLTMtNC04LjE1Ny03LTguMTU3LTQgMC0xMCA0Ljk4Ni0xMCA5LjE1NyAwIDIuNTQ0IDUuNzM4IDIuOTI5IDcuNDg2IDIuOTg4LjY5NyAxLjQzIDEuNDE0IDIuOTM0IDIuMjMyIDQuMzMuMDY2LjIwNS4xNTUuNDI5LjI4Mi42ODMgMyA2IDMuMTE5IDE0LjUgNC41IDE0LjVzMi41LTQuODU3IDIuNS05YzAtLjE1MS0uMDA0LS4yOTktLjAwNy0uNDQ3IDMuMTI2LjY0OSA2LjYwNy4zMjIgOS42NzctLjYxIDEuNDQ4IDUuMDQ1IDEuNzcgMTAuMDU4IDIuODMgMTAuMDU4IDEuMzQyIDAgMi40MzMtOC44MTggMi40OTQtMTMuMTJDMzMuMzE2IDIxLjIyNiAzNCAxOS41MSAzNCAxNy43ODVjMC0uNjA1LS4wODYtMS4yMy0uMjQ4LTEuODQzIDEuNjE0LTEuNjQ0IDIuMTQzLTMuNjc2IDEuNDA3LTUuNDUyeiIvPjxjaXJjbGUgZmlsbD0iIzI5MkYzMyIgY3g9IjciIGN5PSI5LjI4NSIgcj0iMSIvPjwvc3ZnPg==" opacity="0.115"/>
+  <text x="72" y="94" fill="#B08A3C" font-size="23" font-weight="700">SCHROE Daily Fortune</text>
+  <text x="338" y="94" fill="#9AA2B2" font-size="18" font-weight="600">schroe.kr/ja</text>
+  <text class="ja-sans" x="72" y="138" fill="#5A6478" font-size="26" font-weight="500">2026年7月13日（月曜日）</text>
+  <image data-role="title-icon" data-kind="star" data-key="capricorn" x="72" y="178" width="76" height="76" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNiAzNiI+PHBhdGggZmlsbD0iI0ZGQUMzMyIgZD0iTTcuNDQgNy41MDNjLTEtNCAzLjY4Ny02IDgtNCAuOTA3LjQyMS45NDggMS4zMTYgMCAxLTMtMS02IDEtNCA0IDEuMTA5IDEuNjY0LTMuMjMzIDIuMDY4LTQtMXoiLz48cGF0aCBmaWxsPSIjRkZDQzREIiBkPSJNNi4xMzYgNS43ODVjLTEtNCAzLjY4Ny02IDgtNCAuOTA3LjQyMS45NDkgMS4zMTYgMCAxLTMtMS02IDEtNCA0IDEuMTEgMS42NjQtMy4yMzMgMi4wNjctNC0xeiIvPjxwYXRoIGZpbGw9IiNFMUU4RUQiIGQ9Ik01IDE0Ljc4NWMwIDQtMiA0LjgyNy0yIDQgMC0yLTEgMC0xLTF2LTNjMC0xLjY1Ny42NzEtMyAxLjUtM3MxLjUgMS4zNDMgMS41IDN6Ii8+PHBhdGggZmlsbD0iI0NDRDZERCIgZD0iTTM1LjE1OSAxMC40OWMtLjY4LTEuNjQzLTIuMzEzLTIuNzA1LTQuMTU5LTIuNzA1LS41NTMgMC0xIC40NDgtMSAxcy40NDcgMSAxIDFjMS4wMzQgMCAxLjk0MS41NzcgMi4zMTIgMS40NzEuMzQxLjgyNC4xNjggMS43NTgtLjQ1NSAyLjY0Ny0uOTg0LTEuNTA2LTIuNjAyLTIuNjE4LTQuODU2LTIuNjE4LTIuMzkxIDAtNy4yNzkuNzE0LTEwLjgyOCAxLjI4OS0uMDUyLS4wOTQtLjEwNS0uMTg4LS4xNzItLjI4OS0yLTMtNC04LjE1Ny03LTguMTU3LTQgMC0xMCA0Ljk4Ni0xMCA5LjE1NyAwIDIuNTQ0IDUuNzM4IDIuOTI5IDcuNDg2IDIuOTg4LjY5NyAxLjQzIDEuNDE0IDIuOTM0IDIuMjMyIDQuMzMuMDY2LjIwNS4xNTUuNDI5LjI4Mi42ODMgMyA2IDMuMTE5IDE0LjUgNC41IDE0LjVzMi41LTQuODU3IDIuNS05YzAtLjE1MS0uMDA0LS4yOTktLjAwNy0uNDQ3IDMuMTI2LjY0OSA2LjYwNy4zMjIgOS42NzctLjYxIDEuNDQ4IDUuMDQ1IDEuNzcgMTAuMDU4IDIuODMgMTAuMDU4IDEuMzQyIDAgMi40MzMtOC44MTggMi40OTQtMTMuMTJDMzMuMzE2IDIxLjIyNiAzNCAxOS41MSAzNCAxNy43ODVjMC0uNjA1LS4wODYtMS4yMy0uMjQ4LTEuODQzIDEuNjE0LTEuNjQ0IDIuMTQzLTMuNjc2IDEuNDA3LTUuNDUyeiIvPjxjaXJjbGUgZmlsbD0iIzI5MkYzMyIgY3g9IjciIGN5PSI5LjI4NSIgcj0iMSIvPjwvc3ZnPg=="/>
+  <text class="ja-display" x="166" y="254" fill="#20293B" font-size="102" font-weight="600">山羊座</text>
+  <line x1="74" y1="312" x2="104" y2="312" stroke="#C4A354" stroke-width="3" stroke-linecap="round"/>
+  <text class="ja-sans" x="122" y="320" fill="#8A6E33" font-size="20" font-weight="600">今日の星座占い</text>
+  <text class="ja-sans" x="912" y="82" fill="#9AA2B2" font-size="15" font-weight="700" text-anchor="middle">今日の順位</text>
+  <text class="ja-display" x="912" y="148" fill="#C4A354" font-size="58" font-weight="600" text-anchor="middle">6位</text>
+  <line x1="822" y1="176" x2="1002" y2="176" stroke="#20293B" stroke-opacity="0.12" stroke-width="2"/>
+  <text class="ja-sans" x="912" y="212" fill="#9AA2B2" font-size="15" font-weight="700" text-anchor="middle">スコア</text>
+  <text class="display" x="904" y="284" fill="#20293B" font-size="72" font-weight="700" text-anchor="middle">78</text>
+  <text class="ja-sans" x="956" y="280" fill="#8A6E33" font-size="22" font-weight="900">点</text>
+  <line x1="72" y1="342" x2="1008" y2="342" stroke="#C4A354" stroke-width="2" stroke-dasharray="10 14" opacity="0.42"/>
+  <rect id="summary-panel" x="72" y="368" width="936" height="214" rx="30" fill="#ffffff" fill-opacity="0.62" stroke="#20293B" stroke-opacity="0.08" stroke-width="2" filter="url(#panelShadow)"/>
+  <text class="display" x="106" y="402" fill="#C4A354" font-size="72" font-weight="700" opacity="0.18">“</text>
+  <text class="ja-summary" x="148" y="423" fill="#2A3346" font-size="30" font-weight="400" text-anchor="start">夜、明日着ていく服を完璧に準備して、靴も磨いてから</text>
+<text class="ja-summary" x="148" y="463" fill="#2A3346" font-size="30" font-weight="400" text-anchor="start">眠りについてみてください。</text>
+<text class="ja-summary" x="148" y="503" fill="#2A3346" font-size="30" font-weight="400" text-anchor="start">整った準備が心の余裕を生み、明日の朝を慌てずに優雅</text>
+<text class="ja-summary" x="148" y="543" fill="#2A3346" font-size="30" font-weight="400" text-anchor="start">に迎えられるようになりますよ。</text>
+  <rect data-row-key="love" x="72" y="602" width="936" height="156" rx="14" fill="#ffffff" fill-opacity="0.66" stroke="#20293B" stroke-opacity="0.09" stroke-width="2" filter="url(#panelShadow)"/><text class="ja-sans" data-role="detail-heading" data-row-key="love" x="112" y="638" fill="#C0637A" font-size="18" font-weight="800" text-anchor="start">💗 恋愛 3/5</text><foreignObject data-role="detail-copy" x="112" y="648" width="856" height="100"><div xmlns="http://www.w3.org/1999/xhtml" class="ja-sans" style="width:100%;height:100%;display:flex;align-items:center;color:#303948;font-family:&#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;Yu Gothic&#39;, &#39;Noto Sans CJK JP&#39;, &#39;Noto Sans JP&#39;, sans-serif;font-size:23px;font-weight:450;line-height:33px;letter-spacing:0;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;overflow:hidden;">日頃の感謝を込めて、相手の好きな銘柄のコーヒーやお茶を差し入れしてみてください。
+言葉に頼りすぎない実直な気遣いが、二人の信頼関係をより深いものにしますよ。</div></foreignObject><rect data-row-key="money" x="72" y="778" width="936" height="156" rx="14" fill="#ffffff" fill-opacity="0.66" stroke="#20293B" stroke-opacity="0.09" stroke-width="2" filter="url(#panelShadow)"/><text class="ja-sans" data-role="detail-heading" data-row-key="money" x="112" y="814" fill="#B08A3C" font-size="18" font-weight="800" text-anchor="start">💰 金運 4/5</text><foreignObject data-role="detail-copy" x="112" y="824" width="856" height="100"><div xmlns="http://www.w3.org/1999/xhtml" class="ja-sans" style="width:100%;height:100%;display:flex;align-items:center;color:#303948;font-family:&#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;Yu Gothic&#39;, &#39;Noto Sans CJK JP&#39;, &#39;Noto Sans JP&#39;, sans-serif;font-size:23px;font-weight:450;line-height:33px;letter-spacing:0;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;overflow:hidden;">長期的な貯蓄計画を紙に書き出し、目標金額までの達成率を計算してみてください。
+現状を数字で可視化することで、資産を増やすための具体的な行動が見えてきますよ。</div></foreignObject><rect data-row-key="career" x="72" y="954" width="936" height="156" rx="14" fill="#ffffff" fill-opacity="0.66" stroke="#20293B" stroke-opacity="0.09" stroke-width="2" filter="url(#panelShadow)"/><text class="ja-sans" data-role="detail-heading" data-row-key="career" x="112" y="990" fill="#4C7A9E" font-size="18" font-weight="800" text-anchor="start">💼 仕事 4/5</text><foreignObject data-role="detail-copy" x="112" y="1000" width="856" height="100"><div xmlns="http://www.w3.org/1999/xhtml" class="ja-sans" style="width:100%;height:100%;display:flex;align-items:center;color:#303948;font-family:&#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;Yu Gothic&#39;, &#39;Noto Sans CJK JP&#39;, &#39;Noto Sans JP&#39;, sans-serif;font-size:23px;font-weight:450;line-height:33px;letter-spacing:0;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;overflow:hidden;">プロジェクトの進捗を時系列で整理し、遅れが出そうな箇所を事前に報告しておきましょう。
+先手を取った正確な情報共有が、周囲からのプロフェッショナルな評価に繋がりますよ。</div></foreignObject><rect data-row-key="health" x="72" y="1130" width="936" height="156" rx="14" fill="#ffffff" fill-opacity="0.66" stroke="#20293B" stroke-opacity="0.09" stroke-width="2" filter="url(#panelShadow)"/><text class="ja-sans" data-role="detail-heading" data-row-key="health" x="112" y="1166" fill="#4E9A78" font-size="18" font-weight="800" text-anchor="start">🌿 健康 4/5</text><foreignObject data-role="detail-copy" x="112" y="1176" width="856" height="100"><div xmlns="http://www.w3.org/1999/xhtml" class="ja-sans" style="width:100%;height:100%;display:flex;align-items:center;color:#303948;font-family:&#39;Hiragino Sans&#39;, &#39;Hiragino Kaku Gothic ProN&#39;, &#39;Yu Gothic&#39;, &#39;Noto Sans CJK JP&#39;, &#39;Noto Sans JP&#39;, sans-serif;font-size:23px;font-weight:450;line-height:33px;letter-spacing:0;white-space:normal;line-break:strict;word-break:normal;overflow-wrap:normal;overflow:hidden;">デスクワーク中、1時間ごとに背筋を伸ばして顎を引く姿勢を意識してみてください。
+正しい姿勢を維持することで、肩や首への負担が減り、疲れにくい体質に近づけますよ。</div></foreignObject>
+</svg>
